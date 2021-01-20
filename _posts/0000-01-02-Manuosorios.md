@@ -2,5 +2,7 @@
 layout: slide 
 tittle: "Bienvenidos a la segunda página!"
 ---
-Espero que sigan adelante con el trabajo y podamos aprender todos juntos, ¡ánimo!
+#### ¡ÁNIMO! 
+Vamos avanzando poco a poco pero seguros.
 Utiliza la flecha hacia la izquiera para volver!
+ 
